@@ -1,0 +1,13 @@
+C:\Git\RunnerAsml\Runner\Runner\bin\Debug\netcoreapp3.1\Runner.exe
+C:\Git\RunnerAsml\Runner\Runner\bin\Debug\netcoreapp3.1\Runner.deps.json
+C:\Git\RunnerAsml\Runner\Runner\bin\Debug\netcoreapp3.1\Runner.runtimeconfig.json
+C:\Git\RunnerAsml\Runner\Runner\bin\Debug\netcoreapp3.1\Runner.runtimeconfig.dev.json
+C:\Git\RunnerAsml\Runner\Runner\bin\Debug\netcoreapp3.1\Runner.dll
+C:\Git\RunnerAsml\Runner\Runner\bin\Debug\netcoreapp3.1\Runner.pdb
+C:\Git\RunnerAsml\Runner\Runner\obj\Debug\netcoreapp3.1\Runner.csprojAssemblyReference.cache
+C:\Git\RunnerAsml\Runner\Runner\obj\Debug\netcoreapp3.1\Runner.AssemblyInfoInputs.cache
+C:\Git\RunnerAsml\Runner\Runner\obj\Debug\netcoreapp3.1\Runner.AssemblyInfo.cs
+C:\Git\RunnerAsml\Runner\Runner\obj\Debug\netcoreapp3.1\Runner.csproj.CoreCompileInputs.cache
+C:\Git\RunnerAsml\Runner\Runner\obj\Debug\netcoreapp3.1\Runner.dll
+C:\Git\RunnerAsml\Runner\Runner\obj\Debug\netcoreapp3.1\Runner.pdb
+C:\Git\RunnerAsml\Runner\Runner\obj\Debug\netcoreapp3.1\Runner.genruntimeconfig.cache
